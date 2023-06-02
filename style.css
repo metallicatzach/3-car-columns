@@ -1,0 +1,137 @@
+* {
+    box-sizing: border-box;
+    margin:00px;
+    padding:0px;
+   
+    
+}
+body {
+    margin:0px;
+    padding:0px;
+    overflow:auto;
+}
+.main_container {
+    display: flex;
+    flex-direction: row;
+    margin: 150px;
+    width:900px;
+    height:500px;
+    
+}
+.sedan_container {
+    color:white;
+    background-color: #E28525;
+    width:300px;
+    height:500px;
+    border-radius: 10px 0px 0px 10px;
+}
+.sedan_logo {
+    display:flex;
+    margin: 50px;
+}
+.sedan_title {
+    font-family: 'Big Shoulders Display', cursive;
+    margin:50px;
+    font-size:1.2rem;
+}
+.sedan_info {
+    line-height: 1.5;
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsla(0, 0%, 100%, 0.75);
+    margin:50px;
+    font-size:medium;
+    
+}
+.sedan_button {
+    background-color: white;
+    border-radius: 40px;
+    width:140px;
+    margin:50px;
+    padding:15px 5px 15px 5px;
+    
+}
+.sedan_button a {
+    font-family: 'Lexend Deca', sans-serif;
+    text-decoration: none;
+    color:#E28525;
+    display:flex;
+    justify-content: center;
+}
+.suv_container {
+    color:white;
+    background-color: #156972;
+    width:300px;
+    height:500px;
+    
+}
+.suv_logo {
+    display:flex;
+    margin: 50px;
+}
+.suv_title {
+    font-family: 'Big Shoulders Display', cursive;
+    margin:50px;
+    font-size:1.2rem;
+}
+.suv_info {
+    line-height: 1.5;
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsla(0, 0%, 100%, 0.75);
+    margin:50px;
+    font-size:medium;
+    
+}
+.suv_button {
+    background-color: white;
+    border-radius: 40px;
+    width:140px;
+    margin:50px;
+    padding:15px 5px 15px 5px;
+    
+}
+.suv_button a {
+    font-family: 'Lexend Deca', sans-serif;
+    text-decoration: none;
+    color:#156972;
+    display:flex;
+    justify-content: center;
+}
+.lux_container {
+    color:white;
+    background-color: #09403F;
+    width:300px;
+    height:500px;
+    border-radius: 0px 10px 10px 0px;
+}
+.lux_logo {
+    display:flex;
+    margin: 50px;
+}
+.lux_title {
+    font-family: 'Big Shoulders Display', cursive;
+    margin:50px;
+    font-size:1.2rem;
+}
+.lux_info {
+    line-height: 1.5;
+    font-family: 'Lexend Deca', sans-serif;
+    color:hsla(0, 0%, 100%, 0.75);
+    margin:50px;
+    font-size:medium;
+    
+}
+.lux_button {
+    background-color: white;
+    border-radius: 40px;
+    width:140px;
+    margin:50px;
+    padding:15px 5px 15px 5px;
+    
+}
+.lux_button a {
+    font-family: 'Lexend Deca', sans-serif;
+    text-decoration: none;
+    color:#09403F;
+    display:flex;
+    justify-content: center;}
+
